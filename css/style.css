@@ -585,7 +585,7 @@ h1, h2 {
 	text-transform: uppercase;
 	font-weight: 700;
 	font-size: 0.7em;
-	background: #314a80;
+	background: #cc0066;
 	padding: 3px 5px;
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
@@ -624,11 +624,11 @@ header p {
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
-	border: 5px solid #314a80;
+	border: 5px solid #cc0066;
 	font-size: 2.2em;
 	text-align: center;
 	padding: 20px 0;
-	color: #314a80;
+	color: #cc0066;
 	-webkit-transition: all 0.3s ease-in-out 0s;
 	-moz-transition: all 0.3s ease-in-out 0s;
 	-ms-transition: all 0.3s ease-in-out 0s;
@@ -668,7 +668,7 @@ header p {
 	margin-bottom: 25px;
 }
 .generator-inner-wrapper {
-	background: #314a80;
+	background: #cc0066;
 	padding: 30px;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -1452,7 +1452,7 @@ header p {
 	margin-top: 50px;
 }
 .X00Container {
-	background: #314a80;
+	background: #cc0066;
 	padding: 30px;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -1576,7 +1576,7 @@ header p {
 /***** Recent Activity *****/
 .recent-activity {
 	max-width: 280px;
-	background: #314a80;
+	background: #cc0066;
 	padding: 10px 20px;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
